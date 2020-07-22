@@ -1,4 +1,4 @@
-# project-ideas
+# Project Ideas
 Initial repository for storing project ideas.
 
 * Personalized Trip Planner

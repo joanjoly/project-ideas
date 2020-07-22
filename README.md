@@ -1,4 +1,12 @@
-# project-ideas
-Initial repo for storing project ideas.
+# Project Ideas
+Initial repository for storing project ideas.
 
-This is my first repo on GitHub. I've been using Git with Bitbucket for a number of years, so I'm fairly familiar with the concepts. This repo will hold ideas for possible projects I may want to work on.
+* Personalized Trip Planner
+  * Based on the person's interests, location and time frame, the planner creates several itineraries from which the person can choose.
+
+* Text-based Adventure Game
+
+* Content Management System for updating a static website
+
+* Recipes from ingredient list
+  * A person enters the ingredients they would like to use and one to several recipes are provided.
